@@ -1,0 +1,2 @@
+.divider:after,.divider:before{content:"";flex:1 1;height:1px;background:#eee}.h-custom{height:calc(100% - 73px)}@media(max-width:450px){.h-custom{height:100%}}.login__image{max-width:27.5rem;padding:.25rem 1.5rem}.login__typebox{max-width:22.5rem;padding:.25rem 1.5rem}.form-control-lg{font-size:.85rem}
+/*# sourceMappingURL=8.67f278bc.chunk.css.map */
